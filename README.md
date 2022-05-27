@@ -1,2 +1,2 @@
-# -AA-1-C25_Plantilla_alumno
- AA-1-C25_Plantilla_alumno para trabajar en clase
+# PRO-C25-AA
+Plantilla de código de la actividad del alumno
